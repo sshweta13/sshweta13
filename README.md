@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Shweta
-- 👀 I’m a data analyst who loves to manage data by using different tools and procedures.
+- 👀 I am a Data Analyst, analytics professional, enthusiastic about solving business problems with deep data analysis, passionate about technology in general, with particular interest, skills, and almost four years of experience in data management and analytics. A curious thinker who seeks to find new and better ways of doing things, keeping in mind that correct data analysis is always an excellent insight to achieve objectives.
+
+Languages: Python
+Machine Learning: Regression
+Data Management: SQL
+Techniques: Data Visualization, Data Mining, Hypothesis testing, A/B Testing, Predictive Analytics, Database Management.
 
 <!---
 sshweta13/sshweta13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
