@@ -6,6 +6,9 @@ Machine Learning: Regression
 Data Management: SQL
 Techniques: Data Visualization, Data Mining, Hypothesis testing, A/B Testing, Predictive Analytics, Database Management.
 
+Connect me on: 
+Linkedin : https://www.linkedin.com/in/sshweta1314/
+
 <!---
 sshweta13/sshweta13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
