@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Shweta
-- 👀 I am a Data Analyst, analytics professional, enthusiastic about solving business problems with deep data analysis, passionate about technology in general, with particular interest, skills, and almost four years of experience in data management and analytics. A curious thinker who seeks to find new and better ways of doing things, keeping in mind that correct data analysis is always an excellent insight to achieve objectives.
+- 👀As a Data Analyst and analytics professional, I excel in unraveling complex business challenges through meticulous data analysis, leveraging my four-year track record in data management and analytics. Fueled by a passion for technology, I adeptly utilize my skills to drive innovation, continuously seeking new and more efficient methods to enhance results. A tenacious problem-solver, I am committed to uncovering actionable insights by accurately analyzing data, empowering organizations to achieve their objectives with confidence.
 
-Languages: Python
-Machine Learning: Regression
-Data Management: SQL
-Techniques: Data Visualization, Data Mining, Hypothesis testing, A/B Testing, Predictive Analytics, Database Management.
+•	Programming: SQL, Python, Data Wrangling
+•	Techniques: Data Visualization, Data Mining, Hypothesis Testing, A/B Testing, Predictive Analytics, Database Management, Jupyter Notebook, Tableau, scikit-learn
+•	Visualization: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+•	Database/Server: MySQL, SQL Server, Data Warehousing, Data Modelling
+•	Big Data Technologies: Hadoop (HDFS, MapReduce), Apache Spark
+•	Project Management and Collaboration: Agile/Scrum methodologies, Jira, Microsoft Office Suite (Excel, PowerPoint, Word)
+
 
 Connect me on: 
 Linkedin : https://www.linkedin.com/in/sshweta1314/
