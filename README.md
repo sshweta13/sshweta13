@@ -15,7 +15,7 @@
 •	Cybersecurity: Proficient in encryption, SIEM systems, security policy, and ethical hacking.
 •	Network & Data Security: Experienced in access control, backup strategies, and data protection.
 •	Regulatory Compliance: Proficiency in NIST, ISO 27001, GDPR, and CCPA compliance.
-•	Project Management & Collaboration: Agile/Scrum methodologies, Jira, ERP Systems (proficiency with NetSuite), Microsoft Office Suite (Excel,PowerPoint,Word)
+•	Project Management & Collaboration: Agile/Scrum methodologies, Jira, ERP Systems (proficiency with NetSuite), Microsoft Office Suite(Excel, PowerPoint, Word)
 ![image](https://github.com/sshweta13/sshweta13/assets/51931026/ec68a7b6-5741-41fb-bf46-66eb26025544)
 
 
