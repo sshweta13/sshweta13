@@ -1,12 +1,23 @@
-- 👋 Hi, I’m Shweta
-- 👀As a Data Analyst and analytics professional, I excel in unraveling complex business challenges through meticulous data analysis, leveraging my four-year track record in data management and analytics. Fueled by a passion for technology, I adeptly utilize my skills to drive innovation, continuously seeking new and more efficient methods to enhance results. A tenacious problem-solver, I am committed to uncovering actionable insights by accurately analyzing data, empowering organizations to achieve their objectives with confidence.
+- 👋 Hi, I'm Shweta Singh, a seasoned Data Analyst with a robust data management and cybersecurity background, currently pursuing an MS in Engineering Technology at San Jose State University. With over four years of experience, I specialize in using data to unravel complex business challenges and drive strategic decisions.
 
-•	Programming: SQL, Python, Data Wrangling
-•	Techniques: Data Visualization, Data Mining, Hypothesis Testing, A/B Testing, Predictive Analytics, Database Management, Jupyter Notebook, Tableau, scikit-learn
-•	Visualization: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-•	Database/Server: MySQL, SQL Server, Data Warehousing, Data Modelling
-•	Big Data Technologies: Hadoop (HDFS, MapReduce), Apache Spark
-•	Project Management and Collaboration: Agile/Scrum methodologies, Jira, Microsoft Office Suite (Excel, PowerPoint, Word)
+🔍 I'm passionate about transforming raw data into clear, actionable insights using Python, SQL, and Tableau tools. My work at DEN ADN Networks Pvt. Ltd has enabled me to enhance system efficiencies and ensure robust data compliance, significantly improving client satisfaction and operational outcomes.
+
+📊 On GitHub, you'll find projects ranging from predictive analytics models that improve healthcare outcomes to dynamic data visualizations that tell compelling data stories. I always look for innovative ways to apply data analytics for business optimization and growth.
+
+🌐 Connect with me for collaborations or exchange ideas on data science, machine learning applications, and cybersecurity. Let's innovate and solve real-world problems together!
+
+
+
+•	•	Programming & Analysis: Python, SQL, Data Wrangling, Predictive Analytics, sci-kit-learn, Jupyter Notebook
+•	Data Visualization: Tableau, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+•	Testing & Optimization: Hypothesis Testing, A/B Testing, Data Mining
+•	Database Management: MySQL, SQL Server, Data Warehousing, Data Modelling
+•	Cybersecurity: Proficient in encryption, SIEM systems, security policy, and ethical hacking.
+•	Network & Data Security: Experienced in access control, backup strategies, and data protection.
+•	Regulatory Compliance: Proficiency in NIST, ISO 27001, GDPR, and CCPA compliance.
+•	Project Management & Collaboration: Agile/Scrum methodologies, Jira, ERP Systems (proficiency with NetSuite), Microsoft Office Suite (Excel, PowerPoint, Word)
+![image](https://github.com/sshweta13/sshweta13/assets/51931026/ec68a7b6-5741-41fb-bf46-66eb26025544)
+
 
 
 Connect me on: 
