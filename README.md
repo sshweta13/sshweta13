@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Shweta Singh, a seasoned Data Analyst with a robust data management and cybersecurity background, currently pursuing an MS in Engineering Technology at San Jose State University. With over four years of experience, I specialize in using data to unravel complex business challenges and drive strategic decisions.
+👋 Hi, I'm Shweta Singh. I'm a seasoned Data Analyst with a robust data management and cybersecurity background. I'm currently pursuing an MS in Engineering Technology at San Jose State University. With over five years of experience, I specialize in using data to unravel complex business challenges and drive strategic decisions.
 
 🔍 I'm passionate about transforming raw data into clear, actionable insights using Python, SQL, and Tableau tools. My work at DEN ADN Networks Pvt. Ltd has enabled me to enhance system efficiencies and ensure robust data compliance, significantly improving client satisfaction and operational outcomes.
 
