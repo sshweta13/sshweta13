@@ -10,8 +10,6 @@ I'm a data analyst with over five years of industry experience. I hold an M.S. i
 I specialize in solving complex business challenges by turning raw data into actionable insights, using tools like Python, SQL, and Tableau.
 I’m also passionate about exploring how **AI can enhance robotics and autonomous systems**, primarily through perception models and real-time decision-making.
 
-At **DEN ADN Networks**, I deli
-
 At **DEN ADN Networks**, I delivered measurable impact by improving campaign performance, reducing data processing time by 30%, and increasing engagement by 25% through targeted reporting and analytics.
 
 
@@ -43,7 +41,7 @@ At **DEN ADN Networks**, I delivered measurable impact by improving campaign per
 
 ## 🤝 Let’s Connect
 
-I’m always open to collaborations, data-driven projects, and real-world AI applications.  
+I’m open to collaborations, data-driven projects, and real-world AI applications.  
 📬 [LinkedIn](https://www.linkedin.com/in/sshweta1314) • [GitHub](https://github.com/sshweta13) • Email: sshweta1314@gmail.com
 """
 
