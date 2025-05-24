@@ -1,4 +1,4 @@
-readme_content = """
+
 # 👋 Hi, I'm Shweta Singh
 
 🎓 MS in Engineering Technology @ San José State University  
