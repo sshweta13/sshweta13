@@ -5,14 +5,15 @@
 💼 Former Data Analyst @ DEN ADN Networks  
 🛡️ Fortinet Certified | 📍 Based in San Jose, CA  
 
----
 
-I'm a data analyst with over 5 years of industry experience. I'm currently expanding my expertise through a Master's in Engineering Technology at SJSU.  
+I'm a data analyst with over five years of industry experience. I hold an M.S. in Engineering Technology from San José State University, where I focused on data analytics, Artificial Intelligence, and cybersecurity. 
 I specialize in solving complex business challenges by turning raw data into actionable insights, using tools like Python, SQL, and Tableau.
+I’m also passionate about exploring how **AI can enhance robotics and autonomous systems**, primarily through perception models and real-time decision-making.
+
+At **DEN ADN Networks**, I deli
 
 At **DEN ADN Networks**, I delivered measurable impact by improving campaign performance, reducing data processing time by 30%, and increasing engagement by 25% through targeted reporting and analytics.
 
----
 
 ## 🔬 Featured Projects
 
@@ -28,7 +29,6 @@ At **DEN ADN Networks**, I delivered measurable impact by improving campaign per
 - **Urban Mobility Analysis**  
   Analyzed ride-sharing data (GoBike, CitiBike) to uncover usage trends and optimize resource allocation and costs.
 
----
 
 ## 🧰 Tech Stack
 
@@ -40,7 +40,6 @@ At **DEN ADN Networks**, I delivered measurable impact by improving campaign per
 - **Compliance:** NIST, ISO 27001, GDPR, CCPA  
 - **Project Tools:** Agile, Jira, NetSuite ERP, Microsoft Excel, PowerPoint
 
----
 
 ## 🤝 Let’s Connect
 
